@@ -1,0 +1,17 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "main": "justWsServer.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -e html,js,mjs,ejs,json,.env,css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
