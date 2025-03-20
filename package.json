@@ -1,7 +1,7 @@
 {
   "name": "socketio",
   "version": "1.0.0",
-  "main": "justWsServer.js",
+  "main": "chat.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon -e html,js,mjs,ejs,json,.env,css"
